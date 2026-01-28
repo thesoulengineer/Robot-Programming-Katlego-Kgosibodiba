@@ -1,4 +1,4 @@
-# PID Waypoint Navigator
+# Multi-Waypoint Follower Robot
 
 A Python-based 2D mobile robot navigation simulator demonstrating PID control theory applied to waypoint following with A* pathfinding algorithm.
 
